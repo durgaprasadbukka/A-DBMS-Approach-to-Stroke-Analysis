@@ -1,5 +1,4 @@
-# 🩺 Stroke Risk Analysis Using DBMS
-
+# 🩺 A-DBMS-Approach-to-Stroke-Analysis
 This project focuses on identifying key factors influencing stroke by building a normalized relational database and performing analysis using SQL and Python. The aim is to demonstrate how structured health data can support evidence-based healthcare decisions.
 
 ---
